@@ -1,0 +1,3 @@
+I want to teach people that life is relational and lived in everyday conversations that the moment the present moment the minute by minute interactions is a hologram for everything we do and the local community and connection is something we forgotten. I want to do it in a series of stories I wanna talk about health And how Care fits into our world just all of the primary pleasures of life, which is eating taken care of each other growing food feeling connection feeling care and how they’re different from the capitalist mind frame of force and should that care can be a viable thing to enter our lives around
+
+Talking about accommodating ourselves, accommodating our nervous systems, finding safe places amongst the overall lack of safety and connection

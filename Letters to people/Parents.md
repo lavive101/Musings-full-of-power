@@ -1,0 +1,10 @@
+I so much want to alleviate enough pain for my children that they have a good start in life. I want them to have the best equipment for their quest into the world. What is most important? Is it the feeling of being loved? A work ethic? A sense of dream + follow through? 
+
+I do know they need a lot of guidance. A lot of gentle limitation. A lot of being appreciated for who they are right now in this moment. A lot of ways of getting the world to bring its limitations and not getting in the way of them finding the path to what they want in life. (They have to want to work for something. Right now, they are working for nothing but easy pleasure.) 
+Lovingly helping the children work towards something usually looks like some kind of limit. It is very hard to set limits while the children are at choice to come and go as they please.  
+I wish you and I were on the same side as far as setting boundaries with the kids. I think as long as you are suspicious of me and somehow see me as the enemy, then it’s really hard to psychologically be on the same page. 
+I read a lot of little clues. I watch what we talk about and I see hesitations, mannerisms. Somehow, the way you don’t talk about what’s really happening for you but fake like you are fine and just confused about what I am talking about.  
+I have had to watch the family dynamics like a hawk. It’s my special skill. I can see everything. Because you try to hide it so well. And also, you are so scared of being blamed that you make sure it’s my fault. In every little argument. And your whole being has built a cover over this habit. So you can’t see it. The control is the shadow of the “theory of capitalism in America” 
+
+So I have to quietly hold the feelings of both of us. I have to silently guess at where you are. My whole being attuned to any tiny clue about how you feel about me. And the wild thing is that I believe I am right. 
+You won’t be able to hear me be right. It will anger you and you will misinterpret what I am saying According to your own idea of what it was. And make all your assumptions from ther r 

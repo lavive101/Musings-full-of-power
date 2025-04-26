@@ -1,0 +1,882 @@
+{
+  "main": {
+    "id": "2c3454d11141edb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a278b8e1c9e4e004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bdc89f4906b6f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23 and me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23 and me"
+            }
+          },
+          {
+            "id": "fe1a8d4d16977354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "March 25 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "March 25 2025"
+            }
+          },
+          {
+            "id": "87afae4cb73a1701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autism info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autism info"
+            }
+          },
+          {
+            "id": "db2bcd8b77b60066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simon"
+            }
+          },
+          {
+            "id": "c4377ee3adc0c79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "0117e618398daae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/April todo list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "April todo list"
+            }
+          },
+          {
+            "id": "26faa734c42a12ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/Todo household.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo household"
+            }
+          },
+          {
+            "id": "5114f767bcd1180f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/Todo Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo Learning"
+            }
+          },
+          {
+            "id": "37491b6ca6813f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/2 Todo sell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 Todo sell"
+            }
+          },
+          {
+            "id": "07821576d4529b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/3 Todo household.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Todo household"
+            }
+          },
+          {
+            "id": "b519e2060b761dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parents"
+            }
+          },
+          {
+            "id": "1723330e34742ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polarity sex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polarity sex"
+            }
+          },
+          {
+            "id": "6dc9e3ecef2b7624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/6 overwhelm list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 overwhelm list"
+            }
+          },
+          {
+            "id": "4e2788714fd1e9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/7 Things should be different.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 Things should be different"
+            }
+          },
+          {
+            "id": "f17e8429bfd72105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/5 nutrition and vitamin list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 nutrition and vitamin list"
+            }
+          },
+          {
+            "id": "73e726a90ab5a107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/8 Creativity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 Creativity"
+            }
+          },
+          {
+            "id": "36ee9fd502135b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/10 Tabled todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 Tabled todo"
+            }
+          },
+          {
+            "id": "8edc7496b14b303b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discussion with John pendell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "discussion with John pendell"
+            }
+          },
+          {
+            "id": "12d2b93a7be4e450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letter to carolyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Letter to carolyn"
+            }
+          },
+          {
+            "id": "bc0b459eb16b782f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Facebook post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Facebook post"
+            }
+          },
+          {
+            "id": "36d0c0d1e174429b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I have needs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I have needs"
+            }
+          },
+          {
+            "id": "0a484f8d265c2a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/1. Todo personal style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Todo personal style"
+            }
+          },
+          {
+            "id": "0699d11bf4d4ea69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Post two gifted adult adults I am weird.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post two gifted adult adults I am weird"
+            }
+          },
+          {
+            "id": "5170f03bfc6c7e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commitment matters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commitment matters"
+            }
+          },
+          {
+            "id": "d36ba2d4aa42bb03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/9 heart centered work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 heart centered work"
+            }
+          },
+          {
+            "id": "877bd8d81d2c8052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to describe authentic relating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to describe authentic relating"
+            }
+          },
+          {
+            "id": "f3453ee30467af6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/2 Todo sell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 Todo sell"
+            }
+          },
+          {
+            "id": "275c2c05aa78b9c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book about what?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Book about what?"
+            }
+          },
+          {
+            "id": "5ab980c21cd7d299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do lists/9 heart centered work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 heart centered work"
+            }
+          },
+          {
+            "id": "a69c67331de1cbac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 WAP foundation menu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 WAP foundation menu"
+            }
+          },
+          {
+            "id": "6723a5fbdff20b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Describe authentic relating/How to describe authentic relating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to describe authentic relating"
+            }
+          },
+          {
+            "id": "b71582a8d9d286f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Describe authentic relating/How to describe authentic relating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to describe authentic relating"
+            }
+          },
+          {
+            "id": "ff292f3ad9032b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Describe authentic relating/Others descriptions connection games.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Others descriptions connection games"
+            }
+          },
+          {
+            "id": "9301efdf35906f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base event flyer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base event flyer"
+            }
+          },
+          {
+            "id": "2f09e5b1a94a8e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Describe authentic relating/Others descriptions connection games.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Others descriptions connection games"
+            }
+          },
+          {
+            "id": "d5e6119d0e6b5868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letters to people/Schappet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schappet"
+            }
+          },
+          {
+            "id": "415d32f755355eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hopper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hopper"
+            }
+          },
+          {
+            "id": "ac37368aecae03e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b1335b3225180d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Describe authentic relating/Base event flyer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base event flyer"
+            }
+          },
+          {
+            "id": "6f12c67364c39eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Strawberry rhubarb upside down cake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry rhubarb upside down cake"
+            }
+          },
+          {
+            "id": "d980869b814bdecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business revillage/About me (Genevieve).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About me (Genevieve)"
+            }
+          },
+          {
+            "id": "65692053cb927554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business revillage/My own words source about me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My own words source about me"
+            }
+          },
+          {
+            "id": "ffc6f7737865bb57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A woman’s way/Dating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dating"
+            }
+          },
+          {
+            "id": "9d0349cfca53d552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 April 23 todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 April 23 todo"
+            }
+          },
+          {
+            "id": "a4447df1c29abc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 April 23 todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 April 23 todo"
+            }
+          },
+          {
+            "id": "45565538694d9be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letters to people/Schappet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schappet"
+            }
+          },
+          {
+            "id": "ef2460ef42444a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Describe authentic relating/Base event flyer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base event flyer"
+            }
+          },
+          {
+            "id": "7ba16c485ffc0dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Strawberry rhubarb upside down cake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry rhubarb upside down cake"
+            }
+          },
+          {
+            "id": "f97c47d1d63a8260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business revillage/About me (Genevieve).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About me (Genevieve)"
+            }
+          },
+          {
+            "id": "6efc75f0c6cd5697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Official flyer take 47.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Official flyer take 47"
+            }
+          }
+        ],
+        "currentTab": 49
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e6db321e6d2e004",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "23c462b673286b64",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4dc0f1ec63cda7cc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a1a7ba67dd27f5a2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ce9819baa426cebb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c3620e8619c48983",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a2f342a2195002b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Official flyer take 47.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "37bb24feff03f381",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2025-03-22.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c59e603e752bb68a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2025-03-22.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6efc75f0c6cd5697",
+  "lastOpenFiles": [
+    "Business revillage/About me (Genevieve).md",
+    "Official flyer take 47.md",
+    "To do lists/2025 April 23 todo.md",
+    "Brain dump annoyed 4.25.25.md",
+    "Food/Strawberry rhubarb upside down cake.md",
+    "Business revillage/For small business -plan AR.md",
+    "Describe authentic relating/Base event flyer.md",
+    "Cool sayings on preparing a new future on the land.md",
+    "Letters to people/Schappet.md",
+    "Prepping",
+    "Ai prompts/For cheap hotels.md",
+    "Ai prompts",
+    "AR games my perspective more notes.md",
+    "A woman’s way/Dating.md",
+    "Business revillage/My own words source about me.md",
+    "Quinton.md",
+    "Journal/2025-04-22.md",
+    "Templates/Daily note.md",
+    "Journal",
+    "Letters to people/Schappet & genvie owning blame for self.md",
+    "Wrens book/2025 4 12 v recording.md",
+    "Wrens book/Transform.md",
+    "Describe authentic relating/I have needs.md",
+    "To do lists/Date list.md",
+    "A woman’s way/Commitment matters.md",
+    "To do lists/23 and me.md",
+    "A woman’s way/Polarity sex.md",
+    "A woman’s way",
+    "Brain differences/42% more input.md",
+    "Food/1 WAP foundation menu.md",
+    "Business revillage",
+    "Templates",
+    "Food",
+    "Untitled",
+    "Describe authentic relating",
+    "Brain differences"
+  ]
+}
