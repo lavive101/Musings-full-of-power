@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note.md",
+                "file": "Added by Schappet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily note"
+              "title": "Added by Schappet"
+            }
+          },
+          {
+            "id": "c3207aa114d9fc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Community weaver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Community weaver"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,15 +174,17 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca14afabd504f4c6",
+  "active": "c3207aa114d9fc40",
   "lastOpenFiles": [
     "Added by Schappet.md",
+    "Community weaver.md",
+    "Templates/Daily note.md",
+    "Wren chats with AI",
     "Food/1 WAP foundation menu.md",
     "Describe authentic relating/Deep play circling intensive.md",
     "A woman’s way/Polarity sex.md",
@@ -191,8 +208,6 @@
     "Letters to people/Letter to carolyn.md",
     "Letters to people/Parents.md",
     "Letters to people/Schappet.md",
-    "Describe authentic relating/How to describe authentic relating.md",
-    "Ai prompts/For cheap hotels.md",
     "Ai prompts",
     "A woman’s way",
     "Brain differences",
@@ -201,7 +216,6 @@
     "Journal",
     "Describe authentic relating",
     "Business revillage",
-    "Wrens book",
-    "Templates"
+    "Wrens book"
   ]
 }
