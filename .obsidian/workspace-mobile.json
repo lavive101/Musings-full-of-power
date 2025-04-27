@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7d02e80024b35fd7",
+    "id": "d42156879f7dde2f",
     "type": "split",
     "children": [
       {
-        "id": "f5a0ca683400617d",
+        "id": "67ed6528bc9246bf",
         "type": "tabs",
         "children": [
           {
-            "id": "411f7474596891ce",
+            "id": "ca14afabd504f4c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Added by Schappet.md",
+                "file": "Templates/Daily note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Added by Schappet"
+              "title": "Daily note"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0e64cedd85422929",
+    "id": "975e1a565dbcf4d8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "37344a0a51ce0b22",
+        "id": "4adaa3285dfa43f5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "a31428835a4ebfc2",
+        "id": "8952d50f7d9852b5",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "10e426d49d771e3e",
+        "id": "8cd7bbd9522284c6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "f8d9483dce4d650e",
+        "id": "7717d2b82d1f196b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,17 +89,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d2b69dd577697742",
+    "id": "6c687bf93837c9b6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "aaca9135e2320dbf",
+        "id": "f6022442d0b32b52",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Added by Schappet.md",
-            "collapseAll": true,
+            "file": "Templates/Daily note.md",
+            "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -112,12 +112,12 @@
         }
       },
       {
-        "id": "5153c31646ed348c",
+        "id": "e4448b547a0b52c6",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Added by Schappet.md",
+            "file": "Templates/Daily note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -126,12 +126,12 @@
         }
       },
       {
-        "id": "45841741ea28e909",
+        "id": "ac85d39d2affa4b4",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Added by Schappet.md",
+            "file": "Templates/Daily note.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -141,7 +141,7 @@
         }
       },
       {
-        "id": "be7a766ca3dc8784",
+        "id": "24abece0f918dd1f",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -161,46 +161,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "be7a766ca3dc8784",
+  "active": "ca14afabd504f4c6",
   "lastOpenFiles": [
-    "Journal/2025/04-Apr/2025-04-22.md",
-    "Journal/2025/04-Apr/2025-04-26-Saturday.md",
-    "Journal/2025/04-Apr",
-    "Journal/2025",
-    "/Journal/2025/04-Apr/2025-04-26-Saturday.md",
-    "/Journal/2025/04-Apr/2025-04-22.md",
-    "/Journal/2025/04-Apr",
-    "/Journal/2025",
-    "/Journal",
-    "/Added by Schappet.md",
-    "AR games my perspective more notes.md",
-    "Official flyer take 47.md",
-    "Quinton.md",
     "Added by Schappet.md",
-    "Cool sayings on preparing a new future on the land.md",
-    "Brain dump annoyed 4.25.25.md",
-    "Describe authentic relating/I have needs.md",
-    "Describe authentic relating/How to describe authentic relating.md",
-    "Describe authentic relating/Authentic relating games.md",
-    "Describe authentic relating/Others descriptions connection games.md",
-    "Describe authentic relating/Prompts to find my content.md",
+    "Food/1 WAP foundation menu.md",
     "Describe authentic relating/Deep play circling intensive.md",
-    "Describe authentic relating/Base event flyer.md",
-    "Describe authentic relating",
+    "A woman’s way/Polarity sex.md",
+    "Business revillage/My own words source about me.md",
+    "Wrens book/Transform.md",
+    "To do lists/6 overwhelm list.md",
+    "Describe authentic relating/Prompts to find my content.md",
+    "Food/Strawberry rhubarb upside down cake.md",
+    "Describe authentic relating/Others descriptions connection games.md",
+    "Business revillage/For small business -plan AR.md",
+    "Describe authentic relating/Authentic relating games.md",
+    "Official flyer take 47.md",
+    "Cool sayings on preparing a new future on the land.md",
+    "To do lists/April todo list.md",
+    "Letters to people/discussion with John pendell.md",
+    "To do lists/2025 April 23 todo.md",
+    "Letters to people/Schappet & genvie owning blame for self.md",
+    "To do lists/8 Creativity.md",
+    "To do lists/3 Todo household.md",
+    "Quinton.md",
+    "Letters to people/Letter to carolyn.md",
+    "Letters to people/Parents.md",
+    "Letters to people/Schappet.md",
+    "Describe authentic relating/How to describe authentic relating.md",
     "Ai prompts/For cheap hotels.md",
     "Ai prompts",
-    "Wrens book/Book about what?.md",
-    "Wrens book/Transform.md",
-    "Wrens book/2025 4 12 v recording.md",
-    "Wrens book/Ai guiding me to my book.md",
+    "A woman’s way",
+    "Brain differences",
+    "Food",
+    "Letters to people",
+    "Journal",
+    "Describe authentic relating",
+    "Business revillage",
     "Wrens book",
-    "Templates/Daily note.md",
-    "Templates",
-    "Business revillage/My own words source about me.md",
-    "Business revillage/For small business -plan AR.md",
-    "Business revillage"
+    "Templates"
   ]
 }
