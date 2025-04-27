@@ -2,7 +2,7 @@ Does it sync!
 
 Update
 
-This is editted in github.com
+This is edited in github.com
 
-Edit from Genevieve’s IPhone
+Edit from Genevieve’s iPhone
 
