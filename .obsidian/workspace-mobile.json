@@ -99,7 +99,7 @@
           "type": "backlink",
           "state": {
             "file": "Added by Schappet.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -139,9 +139,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "be7a766ca3dc8784",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +166,7 @@
   },
   "active": "411f7474596891ce",
   "lastOpenFiles": [
+    "/Added by Schappet.md",
     "AR games my perspective more notes.md",
     "Official flyer take 47.md",
     "Quinton.md",
@@ -187,7 +198,6 @@
     "Food/1 WAP foundation menu.md",
     "Food",
     "Brain differences/42% more input.md",
-    "Brain differences/Autism info.md",
     "Brain differences",
     "Letters to people",
     "A woman’s way",
