@@ -18,39 +18,39 @@ This is a very important piece of equipment; please make sure it fits!
 - [x] Pack Cover or 50-gallon plastic trash bag
 - [x] Ground Cover: plastic ground footprint or 50-gallon plastic trash contractor bag
 - [x] 50’ Nylon Parachute Cordage: heavy-duty; at least 1/8" diameter (sold at outdoor gear stores)
-- [ ] Light, rugged Sandals like Tevas, Crocs, or water sox (or old tennis shoes to wear while your boots dry out in camp)
-- [ ] Rain Jacket. Essential item! Please make sure the material is actually waterproof!
-- [ ] Rain Pants. Essential item! Please make sure the material is actually waterproof!
+- [x] Light, rugged Sandals like Tevas, Crocs, or water sox (or old tennis shoes to wear while your boots dry out in camp)
+- [x] Rain Jacket. Essential item! Please make sure the material is actually waterproof!
+- [x] Rain Pants. Essential item! Please make sure the material is actually waterproof!
 - [x] Small Flashlight or Headlamp and extra batteries
 - [x] 2 Water Bottles
-	- [ ] One filtering water bottle that removes giardia and cryptosporidium. Examples: Sawyer Water Treatment Filter Bottle, LifeStraw Go by Vestergaard, Aquamira Filtration Water Bottle. Please see our website for more details. (Note: Brita or camelback bottles that just filter out chlorine will NOT work). Must be a water bottle, not bag or pump
-	- [ ] One nalgene wide-mouth 1-quart/liter water bottle (no squirt top bottles, theyleak)
-- [x] A Mess Kit:
-	- [x] Insulated mug with handle for hot drinks (lightweight, with lid)
-	- [x] Camping bowl (not glass/ceramic): square Rubbermaid or Tupperware with lid that can hold utensils is great, not the flimsy disposable ones
-	- [x] Fork and Spoon
-- [ ] Sports referee Whistle (for emergency contact)
+	- [x] One filtering water bottle that removes giardia and cryptosporidium. Examples: Sawyer Water Treatment Filter Bottle, LifeStraw Go by Vestergaard, Aquamira Filtration Water Bottle. Please see our website for more details. (Note: Brita or camelback bottles that just filter out chlorine will NOT work). Must be a water bottle, not bag or pump
+	- [x] One nalgene wide-mouth 1-quart/liter water bottle (no squirt top bottles, theyleak)
+- [ ] A Mess Kit:
+	- [ ] Insulated mug with handle for hot drinks (lightweight, with lid)
+	- [ ] Camping bowl (not glass/ceramic): square Rubbermaid or Tupperware with lid that can hold utensils is great, not the flimsy disposable ones
+	- [ ] Fork and Spoon
+- [x] Sports referee Whistle (for emergency contact)
 - [x] Small towel or Washcloth
-- [ ] Fragrance-free Sunscreen (15-50 spf)
+- [x] Fragrance-free Sunscreen (15-50 spf)
 - [x] Toothbrush & toothpaste
 - [x] Mosquito repellant (non-toxic)—please no DEET
-- [ ] 2-4 gallon-sized Ziploc Bags for keeping gear organized and dry and for managing waste
+- [x] 2-4 gallon-sized Ziploc Bags for keeping gear organized and dry and for managing waste
 - [x] Sunglasses (UV protection, not too dark or reflective)
-- [ ] Camera (Optional. Cell phones are not an option; only single-purpose cameras will be allowed.)
+- [x] Camera (Optional. Cell phones are not an option; only single-purpose cameras will be allowed.)
 - [x] Personal Knife (Optional): Must be a small, single folding blade that locks open (be careful: many knives, including Swiss Army, do NOT lock open). This item will be held by the program mentors until knife safety can be discussed.
 
 ## Clothing for the Trail 
 (each item labeled clearly with the owner’s name or initials)
 
-- [ ] 1-2 sets Polypropylene Long Underwear (top and bottom)
-- [ ] 1-2 pairs Pants - thin wool, fleece, or nylon/polyester — NO COTTON or JEANS
-- [ ] 1-2 Long Sleeve Shirt(s) or thin sweater (synthetic, silk, wool) — NO COTTON
-- [ ] Warm, thick Fleece or Wool Jacket
-- [ ] 3 athletic (quick-dry) T-shirts (Cotton Blend is acceptable but inferior)
-- [ ] 6 pair Underwear
-- [ ] 2 pair athletic/hiking quick-dry Shorts (Cotton not recommended)
-- [ ] 3-6 pairs of thin Polypropylene Liner Socks
-- [ ] 2-3 pair wool or synthetic thick Hiking Socks
+- [x] 1-2 sets Polypropylene Long Underwear (top and bottom)
+- [x] 1-2 pairs Pants - thin wool, fleece, or nylon/polyester — NO COTTON or JEANS
+- [x] 1-2 Long Sleeve Shirt(s) or thin sweater (synthetic, silk, wool) — NO COTTON
+- [x] Warm, thick Fleece or Wool Jacket
+- [x] 3 athletic (quick-dry) T-shirts (Cotton Blend is acceptable but inferior)
+- [x] 6 pair Underwear
+- [x] 2 pair athletic/hiking quick-dry Shorts (Cotton not recommended)
+- [x] 3-6 pairs of thin Polypropylene Liner Socks
+- [x] 2-3 pair wool or synthetic thick Hiking Socks
 - [x] 2 Bandanas or Handkerchiefs
 - [x] Swimsuit
 - [x] Sun/Rain Hat with brim
@@ -58,7 +58,7 @@ This is a very important piece of equipment; please make sure it fits!
 
 ## Clothing for Basecamp
 
-- [x] 1 Duffle (or other) Bag for extra clothes and toiletries to leave at base camp
+- [ ] 1 Duffle (or other) Bag for extra clothes and toiletries to leave at base camp
 - [ ] 1 clean outfit for return:
 	- [ ] clean long pants, 
 	- [ ] shirt, 
