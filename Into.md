@@ -1,0 +1,1 @@
+1. Name, where are you calling in from, and briefly explain why you choose to join this group.  Do you have a diagnosis, self diagnosed or just not sure.  
